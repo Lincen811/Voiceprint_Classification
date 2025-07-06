@@ -19,7 +19,7 @@ This repository provides an implementation of the EGA (Efficient Global Attentio
 
 # Usage
 
-## 📌 Project Structure
+## Project Structure
 
 ```angular2html
 EGA_Voiceprint_Classification/
